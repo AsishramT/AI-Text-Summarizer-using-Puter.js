@@ -24,3 +24,6 @@ A sleek, modern web application that leverages Puter.js and AI to instantly summ
 3.  **Process**: Click **Summarize**. The app sends a structured prompt to the Puter AI model.
 4.  **Result**: The AI returns a concise summary, displayed in a clean, readable card.
 
+
+
+https://github.com/user-attachments/assets/fd5798a7-1372-4e50-84ac-7391c780bd72
